@@ -36,6 +36,7 @@ To run the script, use the following command, where as bamfilename type name of 
 ```bash
 python GenomeAnalysis.py bamfilename.bam
 ```
+Note: You should have you bam file and index file associated with your bam file (.bam.bai) in the same directory.
 
 ## Output
 
